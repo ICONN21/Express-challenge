@@ -1,0 +1,21 @@
+[
+  {
+    "title": "Test Title",
+    "text": "Test text"
+  },
+  {
+    "title": "I like to write Notes!",
+    "text": "I liek it so much here is some text ",
+    "id": "9c99177d-f2e1-4416-be15-85d500acd958"
+  },
+  {
+    "title": "This note is for emily",
+    "text": "Hi emily here is your note ",
+    "id": "2893106c-45cc-4030-8b47-7128824cec35"
+  },
+  {
+    "title": "This ntoe is for me",
+    "text": "Here me, this in my note ",
+    "id": "d6c2d2d3-5cfc-4b28-be04-1000488f31a6"
+  }
+]
